@@ -2,7 +2,9 @@
 <p>Projeto feito em Java que realiza a conversão cambial entre seis tipos diferentes de moedas. Challenge - Conversor de Moedas da Especialização em Back-end da Alura e Oracle Education.</p>
 
 ![Badge do json](https://github.com/badges/shields/raw/master/package.json)
-
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
 Funcionalidades
