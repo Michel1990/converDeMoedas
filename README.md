@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/java%20-%20vermelho"/>
 <img src="https://img.shields.io/badge/json%20-%20verde"/>
 <img src="https://img.shields.io/badge/gson-vermelho"/>
-<img src="https://img.shields.io/badge/ExchangeRate-API-vermelho"/>
-<img src="https://img.shields.io/badge/Postman-teste-vermelho"/>
-<img src="https://img.shields.io/badge/IntelliJ-IDE-vermelho"/>
+<img src="https://img.shields.io/badge/ExchangeRate-API-pink"/>
+<img src="https://img.shields.io/badge/Postman-teste-red"/>
+<img src="https://img.shields.io/badge/intellij-IDE%20-%20blue"/>
 </p>
 
 <h1 align="center">Funcionalidades</h1>
