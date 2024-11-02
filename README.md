@@ -1,7 +1,8 @@
 <h1 align="center">Conversor de Moedas</h1>
 Este é um código em Java que realiza a conversão cambial entre seis tipos diferentes de moedas. O projeto foi desenvolvido como parte do curso Praticando Java: Challenge - Conversor de Moedas da Especialização em Back-end da Alura e Oracle Education.
 
-![Badge do json](https://github.com/badges/shields/raw/master/package.json)
+[Badge do json](https://github.com/badges/shields/raw/master/package.json)
+
 
 
 Funcionalidades
