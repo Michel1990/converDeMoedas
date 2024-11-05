@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/intellij-IDE%20-%20blue"/>
 </p>
 
-<h1 align="center">Funcionalidades</h1>
+<h2 align="center">Funcionalidades</h2>
 <p>Conversão entre seis moedas:</p>
 <p>Dólar (USD)</p>
 <p>Peso Argentino (ARS)</p>
@@ -20,7 +20,7 @@
 <p>Euro (EUR)</p>
 <p>Peso Colombiano (COP)</p>
 
-<h1 align="center">Como Usar</h1>
+<h2 align="center">Como Usar</h2>
 <p>Baixe o java JDK e a biblioteca Gson instalados, Compile em uma IDE (sugestão: IntelliJ IDEA).
 <p>Selecionar Moedas:</p> 
 <p>Siga as instruções no terminal para escolher as moedas de origem e destino, além do valor a ser convertido.
